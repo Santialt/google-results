@@ -1,0 +1,72 @@
+*{
+    font-family: Google Sans, arial, sans-serif;
+}
+
+.google-nav{
+    display:flex ;
+    align-items: center;
+    height: 80px;
+    margin-top: 15px;
+   
+}
+.logo{
+    margin: 0 30px 0 10px;
+    padding: 10px;
+    width: 5%;
+
+}
+
+.search-bar{
+    width: 35%;
+    height: 40px;
+    border-radius: 20px;
+    border: 1px solid rgb(194, 191, 191);
+    box-shadow:  0 2px 5px 1px rgba(64,60,67,.16);
+    background: url(photos/search.png) no-repeat 630px center;
+}
+
+.nav-icon{
+    margin-left: auto;
+    padding-right: 30px;
+    }
+
+.nav-button-x{
+    display:flex;
+    margin: 0 0 0 165px;
+}
+    .nav-button{
+    margin: 0 20px 0 0;
+    font-size: 10px;
+    background-color: blanchedalmond;
+    
+    }
+
+.line{
+color:rgba(197, 194, 194, 0.164) ;
+}
+
+.article{
+    
+    width: 43%;
+    margin: 50px 0 50px 165px;
+    
+}
+
+.link-content{
+font-size: 15px;
+color: rgb(160, 158, 158);
+margin: 2px;
+font-family: Arial, Helvetica, sans-serif;
+}
+.tittle-content{
+margin: 20px 0 20px 0;
+font-size: 30px;
+color: rgb(26, 13, 171);
+font-family: Arial, Helvetica, sans-serif;
+}
+
+.p-content{
+    font-size: 15px;
+    color: #4d5156;
+    font-family: Arial, Helvetica, sans-serif;
+}
